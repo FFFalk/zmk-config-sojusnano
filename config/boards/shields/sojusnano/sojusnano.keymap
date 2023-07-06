@@ -25,4 +25,7 @@ keymap {
                 &bt BT_CLR            &kp KP_DOT
       >;
     };
+ };
+ };
+
 
