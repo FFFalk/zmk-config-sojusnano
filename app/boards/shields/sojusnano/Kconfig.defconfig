@@ -1,6 +1,0 @@
-if SHIELD_SOJUSNANO
-
-config ZMK_KEYBOARD_NAME
-    default "sojusnano"
-
-endif
