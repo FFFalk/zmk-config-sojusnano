@@ -4,5 +4,3 @@ config ZMK_KEYBOARD_NAME
     default "sojusnano"
 
 endif
-CONFIG_ZMK_SLEEP=y
-CONFIG_ZMK_IDLE_SLEEP_TIMEOUT=180000
